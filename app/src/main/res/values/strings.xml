@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Desert Clicker</string>
+    <string name="main_image">Purchase Desert</string>
+    <string name="deserts_sold">Deserts Sold</string>
+    <string name="total_revenue">Total Revenue</string>
+    <string name="number">0</string>
+</resources>
