@@ -1,7 +1,9 @@
 <resources>
     <string name="app_name">Desert Clicker</string>
     <string name="main_image">Purchase Desert</string>
-    <string name="deserts_sold">Deserts Sold</string>
+    <string name="desert_sold">Deserts Sold</string>
     <string name="total_revenue">Total Revenue</string>
-    <string name="number">0</string>
+    <string name="share">Share</string>
+    <string name="share_text">I\'ve clicked %1$d Deserts for a total of $%2$d #AndroidDesertClicker</string>
+    <string name="sharing_not_available">Sharing Not Available</string>
 </resources>
